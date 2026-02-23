@@ -1,0 +1,9 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title><h1>Mi primera página</h1></title>
+  </head>
+  <body>
+  <p>Por medio de la presente</p>
+  </body>
+</html>
