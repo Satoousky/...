@@ -1,0 +1,26 @@
+body{
+background-image: url(imagenes/img1.jpg);
+color:violet;
+}
+
+header{
+background-color:blue;
+color:white;
+padding:10px;
+text-align:center;
+}
+
+nav ul li{
+display:inline-block;
+margin:10px;
+}
+
+nav ul li a{
+color:white;
+text-decoration:none;
+font-size:1.5em;
+}
+
+nav ul li a:hover{
+color:red;
+}
